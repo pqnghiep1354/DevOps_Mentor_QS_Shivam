@@ -1,6 +1,6 @@
 # AAA — Component Build Table (Updated · 10-Step Guide)
 ## Adventure Asia App · AWS Deployment Components
-**Updated:** 11/03/2026 · Based on: AAA_Practice_StepByStep_Guide.md (10 Steps)
+**Updated:** 13/03/2026 · Based on: AAA_Practice_StepByStep_Guide.md (10 Steps)
 **Architecture:** AWS Organizations + ECS Fargate + Docker + GitHub Actions OIDC
 
 ---
